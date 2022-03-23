@@ -1,0 +1,3 @@
+This is using the selenium chrome driver to automate testing of an html contact info page. There are two junit tests one that is expected to fail and one that is expected to pass.
+To use this program you have to have a chrome driver installed to be able to fill out the text of login.html. In the logintest.java you have to replace the 
+file paths with the location of you chrome driver and of the validation.html file. 
